@@ -1,6 +1,6 @@
 # 
 
-# Hi ! This is my GitHub repository. Here below are some useful information.
+# Hi ! This is my GitHub repository. Here below is some useful information.
 
 
 
