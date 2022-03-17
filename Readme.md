@@ -12,6 +12,10 @@ open the document *CV_Computer_Science.pdf*
 
 open the document *MSc Project Computer Science fc16895*
 
+### What's next ?
+
+I am in the process of putting up the Single Page Application that I did with some colleagues, built on Full MEAN Stack and that enables the user to visualise how positive the news that they have just read are overall.
+
 
 
 
