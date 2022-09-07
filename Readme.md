@@ -6,7 +6,7 @@
 
 ### To see my CV:
 
-open the document *CV_Computer_Science.pdf*
+open the document *CV_CS.pdf*
 
 ### To see my MSc Computer Science project, which is about Men's mental health:
 
