@@ -8,7 +8,7 @@
 
 open the document *CV_CS.pdf*
 
-### To see my MSc Computer Science project, which is about Men's mental health:
+### To see my MSc Computer Science project, which is about Men's mental health on Reddit and the usage of a web-scraping Python tool:
 
 open the document *MSc Project Computer Science fc16895*
 
